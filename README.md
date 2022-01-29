@@ -3,9 +3,9 @@
 
 ## Analista de Power BI e entusiasta de toda tecnologia!!
 
-- 🔭 Comecei a criar meu portfolio em Power BI!
-- ⚡ Estudando tecnologias e consumindo conteúdo relacionado a Ciencia de Dados
-- 🤣 Corinthians, Chicago Bulls and Pittsburgh Steelers
+- 🦑 Comecei a criar meu portfolio em Power BI!
+- 👽 Estudando tecnologias e consumindo conteúdo relacionado a Ciencia de Dados
+- 😎 Corinthians, Chicago Bulls and Pittsburgh Steelers
 
 
 ### Redes :
