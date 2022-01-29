@@ -8,12 +8,12 @@
 - 😎 Corinthians, Chicago Bulls and Pittsburgh Steelers
 
 <div>
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="LeninKrevitz GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=leninkrevitz&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leninkrevitz&layout=compact&langs_count=16&theme=dracula"/>
-</details>
+
 <div;>
 
 ### Redes :
